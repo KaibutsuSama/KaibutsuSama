@@ -1,1 +1,3 @@
-![](https://raw.githubusercontent.com/KaibutsuSama/github-stats/26296f2b1b7302adafa24d0d26beee29d8b6865e/generated/languages.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KaibutsuSama/github-stats/3e0b865b3230bcdb7ec3bf29ef04e463ae5502e7/generated/languages.svg"/>  
+</div>

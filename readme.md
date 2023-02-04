@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaibutsusama&langs_count=10&hide=css,html&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/KaibutsuSama/github-stats/26296f2b1b7302adafa24d0d26beee29d8b6865e/generated/languages.svg)
